@@ -1,3 +1,3 @@
 # SnowAsh
-SnowAsh GMS SourceCode
+SnowAsh GMS SourceCode:
 A game made by Kamishi and Egg.
